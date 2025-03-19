@@ -1,3 +1,3 @@
 # Demo
 
-This is a billingual tea website with multi-function.
+This is a bilingual tea website with multi-function.
